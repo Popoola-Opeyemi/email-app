@@ -4,14 +4,8 @@ THIS IS THE INDEX PAGE
   </div>
 </template>
 
-<script>
-export default {
-  setup () {
-    
-
-    return {}
-  }
-}
+<script setup>
+await navigateTo('/inbox')
 </script>
 
 <style lang="scss" scoped>
