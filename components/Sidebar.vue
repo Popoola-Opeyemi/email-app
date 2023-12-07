@@ -114,7 +114,6 @@ const archiveFN = () => {
   opacity: 1;
   background-color: rgba(76, 87, 100, 0.7);
   left: 0;
-  // backdrop-filter: blur(5px); /* Add blur effect to the left side */
 }
 
 .sidebar__right {

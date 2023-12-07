@@ -161,8 +161,6 @@ const unarchiveItem = () => {
     padding: 10px 25px;
     font-size: 30px;
     font-weight: bold;
-    // margin:0px 20px;
   }
-  // margin: 15px 30px;
 }
 </style>

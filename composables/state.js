@@ -119,8 +119,6 @@ export const useArchiveMessagesCount = () => computed((List = useArchiveMessages
   let c = 0
   for (let a=0; a<List.value.length; a++) {
     c++
-    // if (List.value[a].archive){
-    // }
   }
   return c
 })

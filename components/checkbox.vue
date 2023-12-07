@@ -132,12 +132,4 @@ const archive = () => {
   margin: 10px 15px;
 }
 
-// .checkbox-container {
-//   /* display: flex;
-//   align-items: center; */
-// }
-
-// .checkbox-container span {
-//   /* margin-left: 10px; */
-// }
 </style>
